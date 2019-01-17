@@ -1,5 +1,4 @@
-
-Here it is, at long last.  The DOOM source code is released for your
+Here it is, at long last, because it is older then GIT is.  The DOOM source code is released for your
 non-profit use.  You still need real DOOM data to work with this code.
 If you don't actually own a real copy of one of the DOOMs, you should
 still be able to find them at software stores.
